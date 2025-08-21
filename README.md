@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
+
 # API de Cadastro de Clientes (CRUD) com Prisma + MySQL
 
 Projeto desenvolvido em **Node.js** + **Express**, usando **Prisma** como ORM e **MySQL** como banco de dados.
