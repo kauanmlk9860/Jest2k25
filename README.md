@@ -202,5 +202,13 @@ DELETE /clientes/:id
 * Pronta para integração com front-end ou sistemas de teste automatizado.
 * Seed com 10 clientes de exemplo já incluída.
 
+  ## iNTEGRANTES
+  * Richard Pimentel
+  * Kauan Rodrigues
+
+* API pronta para testes de CRUD completo de clientes.
+* Pronta para integração com front-end ou sistemas de teste automatizado.
+* Seed com 10 clientes de exemplo já incluída.
+
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
