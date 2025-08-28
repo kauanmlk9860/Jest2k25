@@ -202,7 +202,7 @@ DELETE /clientes/:id
 * Pronta para integração com front-end ou sistemas de teste automatizado.
 * Seed com 10 clientes de exemplo já incluída.
 
-  ## iNTEGRANTES
+  ## INTEGRANTES
   * Richard Pimentel
   * Kauan Rodrigues
 
